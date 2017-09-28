@@ -6,7 +6,7 @@ html, body {
 }
 
 img {
-	content:url(https://user-images.githubusercontent.com/31553679/30990396-e1ad3184-a455-11e7-9be7-3981a7afce39.png);
+	content:url("https://user-images.githubusercontent.com/31553679/30990396-e1ad3184-a455-11e7-9be7-3981a7afce39.png");
 }
 
 .flex-container {
